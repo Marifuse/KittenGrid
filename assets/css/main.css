@@ -1,0 +1,13 @@
+body {
+	margin: 0 auto;
+}
+.container {
+	background-image: url(../images/sunny-day.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.gato1 {
+	margin-top: 19em;
+	margin-left: 10em;
+	max-width: 50%;
+}
